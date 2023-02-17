@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main - Assigning of random number
-* Retun: This returns 0 as success
-*/
+ * main - main function Assigning of random number
+ * Retun: This returns 0 as success
+ */
 int main(void)
 {
 	int n;
@@ -26,5 +26,6 @@ int main(void)
 	{
 		printf("%d and is 0\n", num);
 	}
+
 	return (0);
 }
