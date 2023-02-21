@@ -1,4 +1,5 @@
-#include <main.h>
+#include "main.h"
+
 /**
  * main - A program that prints putchar
  * Return: 0 as success
