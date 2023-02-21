@@ -4,6 +4,7 @@
  * main - A program that prints putchar
  * Return: 0 as success
  */
+
 int main(void)
 {
 	_putchar("_");
